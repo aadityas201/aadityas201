@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Shinde
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on Django, Django Rest Framework and MERN projects
 - 📫 My email : aaddiishinde201@gmail.com
